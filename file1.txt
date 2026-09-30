@@ -1,1 +1,2 @@
 This is the modified line for file 1
+hello new line
